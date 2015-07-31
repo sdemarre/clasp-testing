@@ -1,0 +1,486 @@
+.:
+total 240
+drwxr-xr-x  7 serge serge   4096 Jul 13 14:16 .
+drwxr-xr-x 30 serge serge   4096 Jul 31 11:48 ..
+-rw-r--r--  1 serge serge 198729 Jul  8 09:30 asdf.lisp
+drwxr-xr-x  3 serge serge   4096 Jul  8 09:30 cache
+-rw-r--r--  1 serge serge    838 Jul  8 09:30 client-info.sexp
+drwxr-xr-x  3 serge serge   4096 Jul 13 14:14 dists
+drwxr-xr-x  2 serge serge   4096 Jul 13 14:15 local-projects
+drwxr-xr-x  2 serge serge   4096 Jul  8 09:30 quicklisp
+-rw-r--r--  1 serge serge   5078 Jul  8 09:30 setup.lisp
+-rw-r--r--  1 serge serge   1547 Jul 13 14:16 slime-helper.el
+drwxr-xr-x  2 serge serge   4096 Jul 13 14:15 tmp
+
+./cache:
+total 12
+drwxr-xr-x  3 serge serge 4096 Jul  8 09:30 .
+drwxr-xr-x  7 serge serge 4096 Jul 13 14:16 ..
+drwxr-xr-x 11 serge serge 4096 Jul 30 12:17 asdf-fasls
+
+./cache/asdf-fasls:
+total 44
+drwxr-xr-x 11 serge serge 4096 Jul 30 12:17 .
+drwxr-xr-x  3 serge serge 4096 Jul  8 09:30 ..
+drwxr-xr-x  2 serge serge 4096 Jul 27 15:00 07qamf
+drwxr-xr-x  2 serge serge 4096 Jul 23 14:56 0ekuge
+drwxr-xr-x  2 serge serge 4096 Jul 30 12:17 0mmbxs
+drwxr-xr-x  2 serge serge 4096 Jul 17 17:32 0nd2co
+drwxr-xr-x  2 serge serge 4096 Jul  8 09:30 0oky7u
+drwxr-xr-x  2 serge serge 4096 Jul 15 16:21 120eq1
+drwxr-xr-x  2 serge serge 4096 Jul 27 14:09 1a435p
+drwxr-xr-x  2 serge serge 4096 Jul 13 14:14 1eicmz
+drwxr-xr-x  2 serge serge 4096 Jul 24 14:32 1ewmb2
+
+./cache/asdf-fasls/07qamf:
+total 16956
+drwxr-xr-x  2 serge serge    4096 Jul 27 15:00 .
+drwxr-xr-x 11 serge serge    4096 Jul 30 12:17 ..
+-rw-r--r--  1 serge serge 3057104 Jul 27 14:58 asdf.bc
+-rwxr-xr-x  1 serge serge 2769906 Jul 27 15:00 asdf.fasl
+-rw-r--r--  1 serge serge 5881212 Jul 27 14:59 asdf.lbc
+-rw-r--r--  1 serge serge 5632744 Jul 27 15:00 asdf.o
+-rw-r--r--  1 serge serge     128 Jul 27 14:57 signature.txt
+
+./cache/asdf-fasls/0ekuge:
+total 12
+drwxr-xr-x  2 serge serge 4096 Jul 23 14:56 .
+drwxr-xr-x 11 serge serge 4096 Jul 30 12:17 ..
+-rw-r--r--  1 serge serge  135 Jul 23 14:56 signature.txt
+
+./cache/asdf-fasls/0mmbxs:
+total 12
+drwxr-xr-x  2 serge serge 4096 Jul 30 12:17 .
+drwxr-xr-x 11 serge serge 4096 Jul 30 12:17 ..
+-rw-r--r--  1 serge serge  135 Jul 30 12:17 signature.txt
+
+./cache/asdf-fasls/0nd2co:
+total 12
+drwxr-xr-x  2 serge serge 4096 Jul 17 17:32 .
+drwxr-xr-x 11 serge serge 4096 Jul 30 12:17 ..
+-rw-r--r--  1 serge serge  136 Jul 17 17:32 signature.txt
+
+./cache/asdf-fasls/0oky7u:
+total 12
+drwxr-xr-x  2 serge serge 4096 Jul  8 09:30 .
+drwxr-xr-x 11 serge serge 4096 Jul 30 12:17 ..
+-rw-r--r--  1 serge serge  110 Jul  8 09:30 signature.txt
+
+./cache/asdf-fasls/120eq1:
+total 12
+drwxr-xr-x  2 serge serge 4096 Jul 15 16:21 .
+drwxr-xr-x 11 serge serge 4096 Jul 30 12:17 ..
+-rw-r--r--  1 serge serge  136 Jul 15 16:21 signature.txt
+
+./cache/asdf-fasls/1a435p:
+total 12
+drwxr-xr-x  2 serge serge 4096 Jul 27 14:09 .
+drwxr-xr-x 11 serge serge 4096 Jul 30 12:17 ..
+-rw-r--r--  1 serge serge  135 Jul 27 14:09 signature.txt
+
+./cache/asdf-fasls/1eicmz:
+total 12
+drwxr-xr-x  2 serge serge 4096 Jul 13 14:14 .
+drwxr-xr-x 11 serge serge 4096 Jul 30 12:17 ..
+-rw-r--r--  1 serge serge  158 Jul 13 14:14 signature.txt
+
+./cache/asdf-fasls/1ewmb2:
+total 12
+drwxr-xr-x  2 serge serge 4096 Jul 24 14:32 .
+drwxr-xr-x 11 serge serge 4096 Jul 30 12:17 ..
+-rw-r--r--  1 serge serge  135 Jul 24 14:32 signature.txt
+
+./dists:
+total 12
+drwxr-xr-x 3 serge serge 4096 Jul 13 14:14 .
+drwxr-xr-x 7 serge serge 4096 Jul 13 14:16 ..
+drwxr-xr-x 5 serge serge 4096 Jul 13 14:15 quicklisp
+
+./dists/quicklisp:
+total 1284
+drwxr-xr-x 5 serge serge   4096 Jul 13 14:15 .
+drwxr-xr-x 3 serge serge   4096 Jul 13 14:14 ..
+drwxr-xr-x 2 serge serge   4096 Jul 23 17:31 archives
+-rw-r--r-- 1 serge serge    408 Jul 13 14:14 distinfo.txt
+-rw-r--r-- 1 serge serge      0 Jul 13 14:14 enabled.txt
+drwxr-xr-x 4 serge serge   4096 Jul 13 14:15 installed
+-rw-r--r-- 1 serge serge     10 Jul 13 14:14 preference.txt
+-rw-r--r-- 1 serge serge 356957 Jul 13 14:15 releases.cdb
+-rw-r--r-- 1 serge serge 313753 Jul 13 14:14 releases.txt
+drwxr-xr-x 7 serge serge   4096 Jul 23 17:31 software
+-rw-r--r-- 1 serge serge 365924 Jul 13 14:15 systems.cdb
+-rw-r--r-- 1 serge serge 239436 Jul 13 14:14 systems.txt
+
+./dists/quicklisp/archives:
+total 1452
+drwxr-xr-x 2 serge serge    4096 Jul 23 17:31 .
+drwxr-xr-x 5 serge serge    4096 Jul 13 14:15 ..
+-rw-r--r-- 1 serge serge   49955 Jul 13 14:16 alexandria-20150505-git.tgz
+-rw-r--r-- 1 serge serge  334164 Jul 23 16:58 iterate-20140713-darcs.tgz
+-rw-r--r-- 1 serge serge    2211 Jul 13 14:16 quicklisp-slime-helper-20150709-git.tgz
+-rw-r--r-- 1 serge serge   10676 Jul 23 17:31 rt-20101006-git.tgz
+-rw-r--r-- 1 serge serge 1069784 Jul 13 14:15 slime-2.14.tgz
+
+./dists/quicklisp/installed:
+total 16
+drwxr-xr-x 4 serge serge 4096 Jul 13 14:15 .
+drwxr-xr-x 5 serge serge 4096 Jul 13 14:15 ..
+drwxr-xr-x 2 serge serge 4096 Jul 23 17:31 releases
+drwxr-xr-x 2 serge serge 4096 Jul 23 17:31 systems
+
+./dists/quicklisp/installed/releases:
+total 28
+drwxr-xr-x 2 serge serge 4096 Jul 23 17:31 .
+drwxr-xr-x 4 serge serge 4096 Jul 13 14:15 ..
+-rw-r--r-- 1 serge serge   50 Jul 13 14:16 alexandria.txt
+-rw-r--r-- 1 serge serge   49 Jul 23 16:59 iterate.txt
+-rw-r--r-- 1 serge serge   62 Jul 13 14:16 quicklisp-slime-helper.txt
+-rw-r--r-- 1 serge serge   42 Jul 23 17:31 rt.txt
+-rw-r--r-- 1 serge serge   37 Jul 13 14:15 slime.txt
+
+./dists/quicklisp/installed/systems:
+total 32
+drwxr-xr-x 2 serge serge 4096 Jul 23 17:31 .
+drwxr-xr-x 4 serge serge 4096 Jul 13 14:15 ..
+-rw-r--r-- 1 serge serge   70 Jul 13 14:16 alexandria-tests.txt
+-rw-r--r-- 1 serge serge   64 Jul 13 14:16 alexandria.txt
+-rw-r--r-- 1 serge serge   60 Jul 23 16:59 iterate.txt
+-rw-r--r-- 1 serge serge   88 Jul 13 14:16 quicklisp-slime-helper.txt
+-rw-r--r-- 1 serge serge   48 Jul 23 17:31 rt.txt
+-rw-r--r-- 1 serge serge   46 Jul 13 14:15 swank.txt
+
+./dists/quicklisp/software:
+total 28
+drwxr-xr-x 7 serge serge 4096 Jul 23 17:31 .
+drwxr-xr-x 5 serge serge 4096 Jul 13 14:15 ..
+drwxr-xr-x 3 serge serge 4096 Jul 27 15:38 alexandria-20150505-git
+drwxr-xr-x 4 serge serge 4096 Jul 23 16:59 iterate-20140713-darcs
+drwxr-xr-x 2 serge serge 4096 Jul 13 14:16 quicklisp-slime-helper-20150709-git
+drwxr-xr-x 3 serge serge 4096 Jul 23 17:31 rt-20101006-git
+drwxr-xr-x 6 serge serge 4096 Jul 13 14:15 slime-2.14
+
+./dists/quicklisp/software/alexandria-20150505-git:
+total 280
+drwxr-xr-x 3 serge serge  4096 Jul 27 15:38 .
+drwxr-xr-x 7 serge serge  4096 Jul 23 17:31 ..
+-rw-r--r-- 1 serge serge  3195 Jul 13 14:16 alexandria.asd
+-rw-r--r-- 1 serge serge   455 Jul 13 14:16 alexandria-tests.asd
+-rw-r--r-- 1 serge serge   871 Jul 13 14:16 arrays.lisp
+-rw-r--r-- 1 serge serge   125 Jul 13 14:16 AUTHORS
+-rw-r--r-- 1 serge serge  3047 Jul 13 14:16 binding.lisp
+-rw-r--r-- 1 serge serge   117 Jul 13 14:16 .boring
+-rw-r--r-- 1 serge serge  3363 Jul 13 14:16 conditions.lisp
+-rw-r--r-- 1 serge serge  5119 Jul 13 14:16 control-flow.lisp
+-rw-r--r-- 1 serge serge  1656 Jul 13 14:16 definitions.lisp
+drwxr-xr-x 2 serge serge  4096 Jul 13 14:16 doc
+-rw-r--r-- 1 serge serge   717 Jul 13 14:16 features.lisp
+-rw-r--r-- 1 serge serge  6127 Jul 13 14:16 functions.lisp
+-rw-r--r-- 1 serge serge    22 Jul 13 14:16 .gitignore
+-rw-r--r-- 1 serge serge  3755 Jul 13 14:16 hash-tables.lisp
+-rw-r--r-- 1 serge serge  7142 Jul 13 14:16 io.lisp
+-rw-r--r-- 1 serge serge  1983 Jul 13 14:16 LICENCE
+-rw-r--r-- 1 serge serge 14051 Jul 13 14:16 lists.lisp
+-rw-r--r-- 1 serge serge 11941 Jul 13 14:16 macros.lisp
+-rw-r--r-- 1 serge serge  9234 Jul 13 14:16 numbers.lisp
+-rw-r--r-- 1 serge serge  5180 Jul 13 14:16 package.lisp
+-rw-r--r-- 1 serge serge  1910 Jul 13 14:16 README
+-rw-r--r-- 1 serge serge 23766 Jul 13 14:16 sequences.lisp
+-rw-r--r-- 1 serge serge   185 Jul 13 14:16 strings.lisp
+-rw-r--r-- 1 serge serge  2497 Jul 13 14:16 symbols.lisp
+-rw-r--r-- 1 serge serge 51111 Jul 27 15:38 tests.lisp
+-rw-r--r-- 1 serge serge 51103 Jul 27 15:36 tests.lisp~
+-rw-r--r-- 1 serge serge  5864 Jul 13 14:16 types.lisp
+
+./dists/quicklisp/software/alexandria-20150505-git/doc:
+total 64
+drwxr-xr-x 2 serge serge  4096 Jul 13 14:16 .
+drwxr-xr-x 3 serge serge  4096 Jul 27 15:38 ..
+-rw-r--r-- 1 serge serge 10000 Jul 13 14:16 alexandria.texinfo
+-rw-r--r-- 1 serge serge 34765 Jul 13 14:16 docstrings.lisp
+-rw-r--r-- 1 serge serge    20 Jul 13 14:16 .gitignore
+-rw-r--r-- 1 serge serge   687 Jul 13 14:16 Makefile
+
+./dists/quicklisp/software/iterate-20140713-darcs:
+total 212
+drwxr-xr-x 4 serge serge   4096 Jul 23 16:59 .
+drwxr-xr-x 7 serge serge   4096 Jul 23 17:31 ..
+drwxr-xr-x 2 serge serge   4096 Jul 23 16:59 bin
+drwxr-xr-x 3 serge serge   4096 Jul 23 16:59 doc
+-rw-r--r-- 1 serge serge   1270 Jul 23 16:59 iterate.asd
+-rw-r--r-- 1 serge serge 131295 Jul 23 16:59 iterate.lisp
+-rw-r--r-- 1 serge serge   2997 Jul 23 16:59 iterate-pg.lisp
+-rw-r--r-- 1 serge serge  49015 Jul 23 16:59 iterate-test.lisp
+-rw-r--r-- 1 serge serge    440 Jul 23 16:59 Makefile
+-rw-r--r-- 1 serge serge   1302 Jul 23 16:59 package.lisp
+
+./dists/quicklisp/software/iterate-20140713-darcs/bin:
+total 12
+drwxr-xr-x 2 serge serge 4096 Jul 23 16:59 .
+drwxr-xr-x 4 serge serge 4096 Jul 23 16:59 ..
+-rw-r--r-- 1 serge serge  669 Jul 23 16:59 release.sh
+
+./dists/quicklisp/software/iterate-20140713-darcs/doc:
+total 144
+drwxr-xr-x 3 serge serge   4096 Jul 23 16:59 .
+drwxr-xr-x 4 serge serge   4096 Jul 23 16:59 ..
+-rw-r--r-- 1 serge serge   9778 Jul 23 16:59 gendocs.sh
+-rw-r--r-- 1 serge serge   5737 Jul 23 16:59 gendocs_template
+-rw-r--r-- 1 serge serge 105700 Jul 23 16:59 iterate.texinfo
+-rw-r--r-- 1 serge serge   1835 Jul 23 16:59 Makefile
+-rw-r--r-- 1 serge serge   2675 Jul 23 16:59 style.css
+drwxr-xr-x 2 serge serge   4096 Jul 23 16:59 tex
+
+./dists/quicklisp/software/iterate-20140713-darcs/doc/tex:
+total 484
+drwxr-xr-x 2 serge serge   4096 Jul 23 16:59 .
+drwxr-xr-x 3 serge serge   4096 Jul 23 16:59 ..
+-rw-r--r-- 1 serge serge   7857 Jul 23 16:59 aimemo.sty
+-rw-r--r-- 1 serge serge    500 Jul 23 16:59 GNUmakefile
+-rw-r--r-- 1 serge serge 130517 Jul 23 16:59 iterate-bare.pdf
+-rw-r--r-- 1 serge serge  19126 Jul 23 16:59 iterate-bare.tex
+-rw-r--r-- 1 serge serge 241367 Jul 23 16:59 iterate-manual.pdf
+-rw-r--r-- 1 serge serge  79870 Jul 23 16:59 iterate-manual.tex
+
+./dists/quicklisp/software/quicklisp-slime-helper-20150709-git:
+total 28
+drwxr-xr-x 2 serge serge 4096 Jul 13 14:16 .
+drwxr-xr-x 7 serge serge 4096 Jul 23 17:31 ..
+-rw-r--r-- 1 serge serge 1057 Jul 13 14:16 LICENSE.txt
+-rw-r--r-- 1 serge serge  348 Jul 13 14:16 quicklisp-slime-helper.asd
+-rw-r--r-- 1 serge serge  596 Jul 13 14:16 README.txt
+-rw-r--r-- 1 serge serge 1292 Jul 13 14:16 slime-helper.lisp
+-rw-r--r-- 1 serge serge 1547 Jul 13 14:16 slime-helper-template.el
+
+./dists/quicklisp/software/rt-20101006-git:
+total 56
+drwxr-xr-x 3 serge serge  4096 Jul 23 17:31 .
+drwxr-xr-x 7 serge serge  4096 Jul 23 17:31 ..
+drwxr-xr-x 2 serge serge  4096 Jul 23 17:31 debian
+-rw-r--r-- 1 serge serge    13 Jul 23 17:31 .gitignore
+-rw-r--r-- 1 serge serge  1052 Jul 23 17:31 rt.asd
+-rw-r--r-- 1 serge serge  8699 Jul 23 17:31 rt-doc.txt
+-rw-r--r-- 1 serge serge 14752 Jul 23 17:31 rt.lisp
+-rw-r--r-- 1 serge serge  7117 Jul 23 17:31 rt-test.lisp
+
+./dists/quicklisp/software/rt-20101006-git/debian:
+total 32
+drwxr-xr-x 2 serge serge 4096 Jul 23 17:31 .
+drwxr-xr-x 3 serge serge 4096 Jul 23 17:31 ..
+-rw-r--r-- 1 serge serge 2559 Jul 23 17:31 changelog
+-rw-r--r-- 1 serge serge    2 Jul 23 17:31 compat
+-rw-r--r-- 1 serge serge  758 Jul 23 17:31 control
+-rw-r--r-- 1 serge serge 1824 Jul 23 17:31 copyright
+-rw-r--r-- 1 serge serge  611 Jul 23 17:31 rules
+-rw-r--r-- 1 serge serge   64 Jul 23 17:31 watch
+
+./dists/quicklisp/software/slime-2.14:
+total 1628
+drwxr-xr-x 6 serge serge   4096 Jul 13 14:15 .
+drwxr-xr-x 7 serge serge   4096 Jul 23 17:31 ..
+-rw-r--r-- 1 serge serge 858114 Jul 13 14:15 ChangeLog
+drwxr-xr-x 3 serge serge   4096 Jul 13 14:15 contrib
+-rw-r--r-- 1 serge serge   6385 Jul 13 14:15 CONTRIBUTING.md
+drwxr-xr-x 2 serge serge   4096 Jul 13 14:15 doc
+-rw-r--r-- 1 serge serge     40 Jul 13 14:15 .gitref
+drwxr-xr-x 2 serge serge   4096 Jul 13 14:15 lib
+-rw-r--r-- 1 serge serge   2477 Jul 13 14:15 Makefile
+-rw-r--r-- 1 serge serge  52685 Jul 13 14:15 metering.lisp
+-rw-r--r-- 1 serge serge  18362 Jul 13 14:15 NEWS
+-rw-r--r-- 1 serge serge  20208 Jul 13 14:15 nregex.lisp
+-rw-r--r-- 1 serge serge   3364 Jul 13 14:15 PROBLEMS
+-rw-r--r-- 1 serge serge   2842 Jul 13 14:15 README.md
+-rw-r--r-- 1 serge serge  12204 Jul 13 14:15 sbcl-pprint-patch.lisp
+-rw-r--r-- 1 serge serge   1188 Jul 13 14:15 slime-autoloads.el
+-rw-r--r-- 1 serge serge 290615 Jul 13 14:15 slime.el
+-rw-r--r-- 1 serge serge  56295 Jul 13 14:15 slime-tests.el
+-rw-r--r-- 1 serge serge    690 Jul 13 14:15 start-swank.lisp
+drwxr-xr-x 2 serge serge   4096 Jul 16 15:10 swank
+-rw-r--r-- 1 serge serge   1153 Jul 13 14:15 swank.asd
+-rw-r--r-- 1 serge serge 141225 Jul 13 14:15 swank.lisp
+-rw-r--r-- 1 serge serge  13273 Jul 13 14:15 swank-loader.lisp
+-rw-r--r-- 1 serge serge   1374 Jul 13 14:15 .travis.yml
+-rw-r--r-- 1 serge serge 126434 Jul 13 14:15 xref.lisp
+
+./dists/quicklisp/software/slime-2.14/contrib:
+total 1220
+drwxr-xr-x 3 serge serge   4096 Jul 13 14:15 .
+drwxr-xr-x 6 serge serge   4096 Jul 13 14:15 ..
+-rw-r--r-- 1 serge serge  17223 Jul 13 14:15 bridge.el
+-rw-r--r-- 1 serge serge 178100 Jul 13 14:15 ChangeLog
+-rw-r--r-- 1 serge serge   4713 Jul 13 14:15 inferior-slime.el
+-rw-r--r-- 1 serge serge   4157 Jul 13 14:15 Makefile
+-rw-r--r-- 1 serge serge    722 Jul 13 14:15 README.md
+-rw-r--r-- 1 serge serge  12669 Jul 13 14:15 slime-asdf.el
+-rw-r--r-- 1 serge serge   7077 Jul 13 14:15 slime-autodoc.el
+-rw-r--r-- 1 serge serge   1309 Jul 13 14:15 slime-banner.el
+-rw-r--r-- 1 serge serge  73789 Jul 13 14:15 slime-cl-indent.el
+-rw-r--r-- 1 serge serge   6046 Jul 13 14:15 slime-clipboard.el
+-rw-r--r-- 1 serge serge   6581 Jul 13 14:15 slime-compiler-notes-tree.el
+-rw-r--r-- 1 serge serge   7434 Jul 13 14:15 slime-c-p-c.el
+-rw-r--r-- 1 serge serge   7239 Jul 13 14:15 slime-editing-commands.el
+-rw-r--r-- 1 serge serge  12428 Jul 13 14:15 slime-enclosing-context.el
+-rw-r--r-- 1 serge serge   1157 Jul 13 14:15 slime-fancy.el
+-rw-r--r-- 1 serge serge   1584 Jul 13 14:15 slime-fancy-inspector.el
+-rw-r--r-- 1 serge serge   3050 Jul 13 14:15 slime-fancy-trace.el
+-rw-r--r-- 1 serge serge   9564 Jul 13 14:15 slime-fontifying-fu.el
+-rw-r--r-- 1 serge serge  24968 Jul 13 14:15 slime-fuzzy.el
+-rw-r--r-- 1 serge serge   2806 Jul 13 14:15 slime-highlight-edits.el
+-rw-r--r-- 1 serge serge   1802 Jul 13 14:15 slime-hyperdoc.el
+-rw-r--r-- 1 serge serge   1085 Jul 13 14:15 slime-indentation.el
+-rw-r--r-- 1 serge serge   1191 Jul 13 14:15 slime-mdot-fu.el
+-rw-r--r-- 1 serge serge   1261 Jul 13 14:15 slime-media.el
+-rw-r--r-- 1 serge serge    858 Jul 13 14:15 slime-motd.el
+-rw-r--r-- 1 serge serge   5198 Jul 13 14:15 slime-mrepl.el
+-rw-r--r-- 1 serge serge  13234 Jul 13 14:15 slime-package-fu.el
+-rw-r--r-- 1 serge serge  14851 Jul 13 14:15 slime-parse.el
+-rw-r--r-- 1 serge serge  39561 Jul 13 14:15 slime-presentations.el
+-rw-r--r-- 1 serge serge    641 Jul 13 14:15 slime-presentation-streams.el
+-rw-r--r-- 1 serge serge   5448 Jul 13 14:15 slime-references.el
+-rw-r--r-- 1 serge serge  68573 Jul 13 14:15 slime-repl.el
+-rw-r--r-- 1 serge serge   1250 Jul 13 14:15 slime-sbcl-exts.el
+-rw-r--r-- 1 serge serge   1274 Jul 13 14:15 slime-scheme.el
+-rw-r--r-- 1 serge serge   1300 Jul 13 14:15 slime-scratch.el
+-rw-r--r-- 1 serge serge   1153 Jul 13 14:15 slime-snapshot.el
+-rw-r--r-- 1 serge serge   7630 Jul 13 14:15 slime-sprof.el
+-rw-r--r-- 1 serge serge  35194 Jul 13 14:15 slime-trace-dialog.el
+-rw-r--r-- 1 serge serge   4376 Jul 13 14:15 slime-tramp.el
+-rw-r--r-- 1 serge serge   3205 Jul 13 14:15 slime-typeout-frame.el
+-rw-r--r-- 1 serge serge   3876 Jul 13 14:15 slime-xref-browser.el
+-rw-r--r-- 1 serge serge  68276 Jul 13 14:15 swank-arglists.lisp
+-rw-r--r-- 1 serge serge  21202 Jul 13 14:15 swank-asdf.lisp
+-rw-r--r-- 1 serge serge   2168 Jul 13 14:15 swank-clipboard.lisp
+-rw-r--r-- 1 serge serge  12096 Jul 13 14:15 swank-c-p-c.lisp
+-rw-r--r-- 1 serge serge  42973 Jul 13 14:15 swank-fancy-inspector.lisp
+-rw-r--r-- 1 serge serge  33226 Jul 13 14:15 swank-fuzzy.lisp
+-rw-r--r-- 1 serge serge  31159 Jul 13 14:15 swank-goo.goo
+-rw-r--r-- 1 serge serge    764 Jul 13 14:15 swank-hyperdoc.lisp
+-rw-r--r-- 1 serge serge   2469 Jul 13 14:15 swank-ikarus.ss
+-rw-r--r-- 1 serge serge   5845 Jul 13 14:15 swank-indentation.lisp
+-rw-r--r-- 1 serge serge  32947 Jul 13 14:15 swank-jolt.k
+-rw-r--r-- 1 serge serge  88460 Jul 13 14:15 swank-kawa.scm
+-rw-r--r-- 1 serge serge   4941 Jul 13 14:15 swank-larceny.scm
+-rw-r--r-- 1 serge serge   3338 Jul 13 14:15 swank-listener-hooks.lisp
+-rw-r--r-- 1 serge serge   1100 Jul 13 14:15 swank-media.lisp
+-rw-r--r-- 1 serge serge  26133 Jul 13 14:15 swank-mit-scheme.scm
+-rw-r--r-- 1 serge serge   9321 Jul 13 14:15 swank-mlworks.sml
+-rw-r--r-- 1 serge serge   3323 Jul 13 14:15 swank-motd.lisp
+-rw-r--r-- 1 serge serge   4700 Jul 13 14:15 swank-mrepl.lisp
+-rw-r--r-- 1 serge serge   2311 Jul 13 14:15 swank-package-fu.lisp
+-rw-r--r-- 1 serge serge   8463 Jul 13 14:15 swank-presentations.lisp
+-rw-r--r-- 1 serge serge  12526 Jul 13 14:15 swank-presentation-streams.lisp
+-rw-r--r-- 1 serge serge  12275 Jul 13 14:15 swank-r6rs.scm
+-rw-r--r-- 1 serge serge   7652 Jul 13 14:15 swank.rb
+-rw-r--r-- 1 serge serge  16347 Jul 13 14:15 swank-repl.lisp
+-rw-r--r-- 1 serge serge   2111 Jul 13 14:15 swank-sbcl-exts.lisp
+-rw-r--r-- 1 serge serge   2420 Jul 13 14:15 swank-snapshot.lisp
+-rw-r--r-- 1 serge serge   5901 Jul 13 14:15 swank-sprof.lisp
+-rw-r--r-- 1 serge serge   8939 Jul 13 14:15 swank-trace-dialog.lisp
+-rw-r--r-- 1 serge serge   2684 Jul 13 14:15 swank-util.lisp
+drwxr-xr-x 2 serge serge   4096 Jul 13 14:15 test
+
+./dists/quicklisp/software/slime-2.14/contrib/test:
+total 76
+drwxr-xr-x 2 serge serge  4096 Jul 13 14:15 .
+drwxr-xr-x 3 serge serge  4096 Jul 13 14:15 ..
+-rw-r--r-- 1 serge serge  8087 Jul 13 14:15 slime-autodoc-tests.el
+-rw-r--r-- 1 serge serge 18388 Jul 13 14:15 slime-cl-indent-test.txt
+-rw-r--r-- 1 serge serge  2668 Jul 13 14:15 slime-c-p-c-tests.el
+-rw-r--r-- 1 serge serge  1739 Jul 13 14:15 slime-enclosing-context-tests.el
+-rw-r--r-- 1 serge serge  2455 Jul 13 14:15 slime-fontifying-fu-tests.el
+-rw-r--r-- 1 serge serge  3246 Jul 13 14:15 slime-indentation-tests.el
+-rw-r--r-- 1 serge serge  1138 Jul 13 14:15 slime-mdot-fu-tests.el
+-rw-r--r-- 1 serge serge  2167 Jul 13 14:15 slime-parse-tests.el
+-rw-r--r-- 1 serge serge  2119 Jul 13 14:15 slime-presentations-tests.el
+-rw-r--r-- 1 serge serge 11765 Jul 13 14:15 slime-repl-tests.el
+
+./dists/quicklisp/software/slime-2.14/doc:
+total 260
+drwxr-xr-x 2 serge serge   4096 Jul 13 14:15 .
+drwxr-xr-x 6 serge serge   4096 Jul 13 14:15 ..
+-rw-r--r-- 1 serge serge   3189 Jul 13 14:15 contributors.texi
+-rw-r--r-- 1 serge serge    207 Jul 13 14:15 .cvsignore
+-rw-r--r-- 1 serge serge   3721 Jul 13 14:15 Makefile
+-rw-r--r-- 1 serge serge   1083 Jul 13 14:15 slime.css
+-rw-r--r-- 1 serge serge  41845 Jul 13 14:15 slime-refcard.pdf
+-rw-r--r-- 1 serge serge   3118 Jul 13 14:15 slime-refcard.tex
+-rw-r--r-- 1 serge serge  58552 Jul 13 14:15 slime-small.eps
+-rw-r--r-- 1 serge serge   7407 Jul 13 14:15 slime-small.pdf
+-rw-r--r-- 1 serge serge 115549 Jul 13 14:15 slime.texi
+-rw-r--r-- 1 serge serge    500 Jul 13 14:15 texinfo-tabulate.awk
+
+./dists/quicklisp/software/slime-2.14/lib:
+total 312
+drwxr-xr-x 2 serge serge   4096 Jul 13 14:15 .
+drwxr-xr-x 6 serge serge   4096 Jul 13 14:15 ..
+-rw-r--r-- 1 serge serge  13634 Jul 13 14:15 cl-lib.el
+-rw-r--r-- 1 serge serge 105867 Jul 13 14:15 ert.el
+-rw-r--r-- 1 serge serge 105867 Jul 13 14:15 ert-x.el
+-rw-r--r-- 1 serge serge  74255 Jul 13 14:15 hyperspec.el
+-rw-r--r-- 1 serge serge     61 Jul 13 14:15 .nosearch
+
+./dists/quicklisp/software/slime-2.14/swank:
+total 668
+drwxr-xr-x 2 serge serge  4096 Jul 16 15:10 .
+drwxr-xr-x 6 serge serge  4096 Jul 13 14:15 ..
+-rw-r--r-- 1 serge serge 28181 Jul 13 14:15 abcl.lisp
+-rw-r--r-- 1 serge serge 38104 Jul 13 14:15 allegro.lisp
+-rw-r--r-- 1 serge serge 56027 Jul 13 14:15 backend.lisp
+-rw-r--r-- 1 serge serge 30811 Jul 13 14:15 ccl.lisp
+-rw-r--r-- 1 serge serge 29236 Jul 16 15:10 clasp.lisp
+-rw-r--r-- 1 serge serge 29226 Jul 13 14:15 clasp.lisp~
+-rw-r--r-- 1 serge serge 34301 Jul 13 14:15 clisp.lisp
+-rw-r--r-- 1 serge serge 96735 Jul 13 14:15 cmucl.lisp
+-rw-r--r-- 1 serge serge 19673 Jul 13 14:15 corman.lisp
+-rw-r--r-- 1 serge serge 28639 Jul 13 14:15 ecl.lisp
+-rw-r--r-- 1 serge serge  5245 Jul 13 14:15 gray.lisp
+-rw-r--r-- 1 serge serge 36991 Jul 13 14:15 lispworks.lisp
+-rw-r--r-- 1 serge serge  9087 Jul 13 14:15 match.lisp
+-rw-r--r-- 1 serge serge 31022 Jul 13 14:15 mkcl.lisp
+-rw-r--r-- 1 serge serge  5854 Jul 13 14:15 rpc.lisp
+-rw-r--r-- 1 serge serge 77173 Jul 13 14:15 sbcl.lisp
+-rw-r--r-- 1 serge serge 67487 Jul 13 14:15 scl.lisp
+-rw-r--r-- 1 serge serge  5178 Jul 13 14:15 source-file-cache.lisp
+-rw-r--r-- 1 serge serge  8127 Jul 13 14:15 source-path-parser.lisp
+
+./local-projects:
+total 8
+drwxr-xr-x 2 serge serge 4096 Jul 13 14:15 .
+drwxr-xr-x 7 serge serge 4096 Jul 13 14:16 ..
+-rw-r--r-- 1 serge serge    0 Jul 13 14:15 system-index.txt
+
+./quicklisp:
+total 284
+drwxr-xr-x 2 serge serge  4096 Jul  8 09:30 .
+drwxr-xr-x 7 serge serge  4096 Jul 13 14:16 ..
+-rw-r--r-- 1 serge serge  7945 Jul  8 09:30 bundle.lisp
+-rw-r--r-- 1 serge serge  6220 Jul  8 09:30 bundle-template.lisp
+-rw-r--r-- 1 serge serge 13548 Jul  8 09:30 cdb.lisp
+-rw-r--r-- 1 serge serge  8720 Jul  8 09:30 client-info.lisp
+-rw-r--r-- 1 serge serge  5006 Jul  8 09:30 client.lisp
+-rw-r--r-- 1 serge serge  4446 Jul  8 09:30 client-update.lisp
+-rw-r--r-- 1 serge serge  1356 Jul  8 09:30 config.lisp
+-rw-r--r-- 1 serge serge 34317 Jul  8 09:30 deflate.lisp
+-rw-r--r-- 1 serge serge 38231 Jul  8 09:30 dist.lisp
+-rw-r--r-- 1 serge serge  6954 Jul  8 09:30 dist-update.lisp
+-rw-r--r-- 1 serge serge   887 Jul  8 09:30 fetch-gzipped.lisp
+-rw-r--r-- 1 serge serge 26922 Jul  8 09:30 http.lisp
+-rw-r--r-- 1 serge serge  9763 Jul  8 09:30 impl.lisp
+-rw-r--r-- 1 serge serge 11147 Jul  8 09:30 impl-util.lisp
+-rw-r--r-- 1 serge serge  4975 Jul  8 09:30 local-projects.lisp
+-rw-r--r-- 1 serge serge  6950 Jul  8 09:30 minitar.lisp
+-rw-r--r-- 1 serge serge   536 Jul  8 09:30 misc.lisp
+-rw-r--r-- 1 serge serge  5625 Jul  8 09:30 network.lisp
+-rw-r--r-- 1 serge serge  9088 Jul  8 09:30 package.lisp
+-rw-r--r-- 1 serge serge  5100 Jul  8 09:30 progress.lisp
+-rw-r--r-- 1 serge serge  1117 Jul  8 09:30 quicklisp.asd
+-rw-r--r-- 1 serge serge  9973 Jul  8 09:30 setup.lisp
+-rw-r--r-- 1 serge serge  4061 Jul  8 09:30 utils.lisp
+-rw-r--r-- 1 serge serge    11 Jul  8 09:30 version.txt
+
+./tmp:
+total 304
+drwxr-xr-x 2 serge serge   4096 Jul 13 14:15 .
+drwxr-xr-x 7 serge serge   4096 Jul 13 14:16 ..
+-rw-r--r-- 1 serge serge    408 Jul 13 14:14 install-dist-distinfo.txt
+-rw-r--r-- 1 serge serge 245760 Jul  8 09:30 quicklisp.tar
+-rw-r--r-- 1 serge serge  51200 Jul 23 17:31 release-install.tar
